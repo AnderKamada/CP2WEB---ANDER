@@ -1,0 +1,36 @@
+.container {
+   display: flex;
+   margin: 10px auto; 
+}
+
+.container img {
+    width: 100%;
+}
+
+section.section-one {
+    background-color: rgb(45, 46, 46);
+    color: aliceblue;
+}
+
+section.section-two {
+    background-color: rgb(110, 78, 53);
+    color: rgb(207, 238, 216);
+}
+
+section {
+    padding: 80px;
+}
+    
+.container div {
+    width: 35%;
+    margin: 0 auto;
+}
+
+section.section-one h2 {
+    font-size: 80px;
+}
+
+section.section-two div p {
+    font-size: large; 
+}
+

@@ -1,0 +1,19 @@
+header{
+    background: #fdfdfc url('../images/background\ head.jpg') no-repeat center center;
+    height: 400px;
+    font-style: oblique;
+    text-align: center;
+    font-size: large;
+}
+
+header div.title {
+    margin: auto;
+    width: 60%;
+    min-width: 200px;
+    max-width: 1000px;
+    border: 10px solid white
+}
+
+header > div {
+    padding: 100px;
+}
