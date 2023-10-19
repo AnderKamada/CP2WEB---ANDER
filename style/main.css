@@ -10,11 +10,17 @@
 section.section-one {
     background-color: rgb(45, 46, 46);
     color: aliceblue;
+    border-width: 30px;
+    border-color: black;
+     border-style:solid;
 }
 
 section.section-two {
     background-color: rgb(110, 78, 53);
     color: rgb(207, 238, 216);
+    border-color: rgb(255, 255, 255);
+    border-width: 60px;
+    border-style: solid;
 }
 
 section {
@@ -34,3 +40,6 @@ section.section-two div p {
     font-size: large; 
 }
 
+@media screen and (max-width: 600px) {
+
+}

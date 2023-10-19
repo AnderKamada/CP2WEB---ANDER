@@ -17,3 +17,7 @@ header div.title {
 header > div {
     padding: 100px;
 }
+
+@media screen and (max-width: 600px) {
+
+}
